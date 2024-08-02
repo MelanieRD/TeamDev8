@@ -75,3 +75,29 @@ header {
   background: black ;
   color: aliceblue;
 }
+
+/* inicio codigo Richeyla */
+.display-5{
+  text-align: center;
+}
+.stat-card {
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  /* margin: 5px; */
+}
+.icon {
+  font-size: 60px;
+  margin-bottom: 10px;
+}
+.fas{
+  color: #000000;
+}
+.stat-card{
+  border: 1px solid black;
+  margin-top: 5px;
+}
+
+
+/* Fin codigo Richeyla */
